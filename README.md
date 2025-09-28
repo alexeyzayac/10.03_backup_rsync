@@ -32,6 +32,7 @@
 #### Результат:
 
 Команда: 
+
 `rsync -a --progress --delete --checksum --exclude='.*/*' --exclude='.*/' "$HOME/" /tmp/backup/`
 
 ![img](img/screenshot_1.png)
