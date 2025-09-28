@@ -49,5 +49,8 @@
 
 #### Результат:
 
+[скрипт backup_home](script/backup_home.sh)
 
+[файл crontab](cron.d/backup_home)
 
+![img](img/screenshot_2.png)

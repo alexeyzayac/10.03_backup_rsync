@@ -1,0 +1,3 @@
+# /etc/cron.d/backup_home
+
+20 16 * * * root /usr/local/bin/backup_home.sh
