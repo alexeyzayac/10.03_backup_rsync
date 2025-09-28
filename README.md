@@ -54,3 +54,5 @@
 [файл crontab](cron.d/backup_home)
 
 ![img](img/screenshot_2.png)
+
+![img](img/screenshot_3.png)
